@@ -1,1 +1,6 @@
 Added file from GitHub.com
+more stuff has been Added
+we are cloning
+making some changes
+pushing it back to
+remote repository
